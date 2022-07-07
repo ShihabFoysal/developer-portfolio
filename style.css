@@ -64,3 +64,7 @@ h1 {
 #full-atack-developer {
     border-left: 7px solid tomato;
 }
+
+footer p {
+    text-align: center;
+}
